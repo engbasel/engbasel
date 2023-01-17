@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/embaby_basel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="embaby_basel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basel embaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basel embaby" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/basel embaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[basel embaby](https://www.linkedin.com/in/basel-embaby-948671227/)" height="30" width="40" /></a>
 <a href="https://fb.com/basel embaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basel embaby" height="30" width="40" /></a>
 <a href="https://instagram.com/baselembaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baselembaby" height="30" width="40" /></a>
 <a href="https://discord.gg/#6185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6185" height="30" width="40" /></a>
