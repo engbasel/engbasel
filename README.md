@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **App development Using Flutter**
 
 - To know more about me [My Cv](https://drive.google.com/file/d/1aGERz2WCgPDnT_74Is5SDaHoiPiY2bl1/view?usp=share_link)
+- My personal website **https://engbasel.github.io/my-portfolio/**
 
 - I’m currently open for: **Internship**
 
