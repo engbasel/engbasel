@@ -9,7 +9,7 @@
 I'm a passionate **Flutter Developer** and recent **Computer & Communication Engineering** graduate from Mansoura University. Currently working as a freelance Flutter developer with international clients while exploring opportunities to join innovative teams.
 
 - 🔭 Currently working on **Stronger Kiddos** - A pediatric therapy platform for US client
-- 🌱 Learning **Software Testing** and **Advanced Flutter Architecture**
+- 🌱 Learning **Android Native** and **Advanced Flutter Architecture**
 - 👯 Open to collaborate on **Flutter projects** and **Mobile App Development**
 - 💬 Ask me about **Flutter, Firebase, Clean Architecture, State Management**
 - 📫 Reach me at: **basel.a.embaby@gmail.com**
